@@ -1,7 +1,8 @@
-```markdown
+
 # Java Learning KICK Start
 
 ![Screenshot 2024-06-16 at 21 02 22](https://github.com/PramodDutta/JavaLearningKickStart/assets/1409610/664dac9b-7db6-42f9-8710-7180ef98032b)
+
 
 
 Welcome to the Java Learning KICK Start repository! This repository contains a comprehensive list of topics to master core Java, OOP concepts, and the Collections Framework. Below is the outline of the topics covered.
