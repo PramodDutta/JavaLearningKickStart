@@ -1,3 +1,5 @@
+package ex_23062024;
+
 public class HelloWorld {
 
 

@@ -1,3 +1,5 @@
+package ex_23062024;
+
 import java.util.Scanner;
 
 public class Lab003 {
